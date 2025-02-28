@@ -12,3 +12,4 @@ C:\Users\krati\source\repos\Automated Console\Automated Console\obj\Debug\net8.0
 C:\Users\krati\source\repos\Automated Console\Automated Console\obj\Debug\net8.0\Automated Console.pdb
 C:\Users\krati\source\repos\Automated Console\Automated Console\obj\Debug\net8.0\Automated Console.genruntimeconfig.cache
 C:\Users\krati\source\repos\Automated Console\Automated Console\obj\Debug\net8.0\ref\Automated Console.dll
+C:\Users\krati\source\repos\Automated Console\Automated Console\obj\Debug\net8.0\Automated Console.sourcelink.json
